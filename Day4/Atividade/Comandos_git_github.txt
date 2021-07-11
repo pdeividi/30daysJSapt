@@ -4,7 +4,7 @@ $ git config --global user.name "pdeividip"
 
 //Após criar perfil no github, clonar para o local
 Aptools@DELL-VOSTRO MINGW64 /c/users/aptools (main)//local onde vai ter o clone
-$ git clone https://github.com/pdeividip/30daysJSapt.git //o que vai ser clonada
+$ git clone https://github.com/pdeividip/30daysJSapt.git //o que vai ser clonado
 
 //adicionando pastas
 $ git add Day4

@@ -1,0 +1,19 @@
+//conectar
+$ git config --global user.email "pdeividip@gmail.com"
+$ git config --global user.name "pdeividip"
+
+//Após criar perfil no github, clonar para o local
+Aptools@DELL-VOSTRO MINGW64 /c/users/aptools (main)//local onde vai ter o clone
+$ git clone https://github.com/pdeividip/30daysJSapt.git //o que vai ser clonada
+
+//adicionando pastas
+$ git add Day4
+
+//aplicar mudanças
+$ git commit -m "finalizando day4"
+
+//sincronizar - mandar o que tem local para o remoto
+$ git push --set-upstream origin main
+
+//se atualizar algo no remoto e desejar trazer para o local
+$ git pull --set-upstream origin main
